@@ -1,5 +1,5 @@
 # Mouth Piece
-Not BDOUGIE....
+Not BDOUGIE.....
 
 This piece is the mouth of chat commands on
 https://twitch/bdougieYO/chat
